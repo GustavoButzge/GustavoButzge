@@ -2,11 +2,11 @@
 
 I'm Gustavo, a computer science student based in Brazil.
 
-I mostly work on backend stuff
+I mostly work on backend stuff.
 
-I also use Figma for UI Design and sketch ideas.
+I also use Figma for UI design and sketching ideas.
 
-This is a small profile where i'll uploaing some smaller projects, experiements, and things i'mm currenly work on. Every thing where is build from scrath based on my own ideas.
+This is a small profile where I'll be uploading some smaller projects, experiments, and things I'm currently working on. Everything here is built from scratch based on my own ideas.
 
 <hr>
 
@@ -17,9 +17,9 @@ This is a small profile where i'll uploaing some smaller projects, experiements,
 </p>
 
 <ul>
-  <li>Python, HTML, CSS, JavaScipt, React </li>
-  <li>MySql, PostgreSQL</li>
-  <li>Figma, Apple notes, Power BI</li>
+  <li>Python, HTML, CSS, JavaScript, React </li>
+  <li>MySQL, PostgreSQL</li>
+  <li>Figma, Apple Notes, Power BI</li>
   
 </ul>
  
@@ -27,7 +27,7 @@ This is a small profile where i'll uploaing some smaller projects, experiements,
 
 - Vinland Saga is my favorite anime.
 - I love running while listening to military cadences.
-- I love build things that are simple, very useful and easy to understand.
+- I love building things that are simple, very useful, and easy to understand.
 
 #### 📫 Contact
 
